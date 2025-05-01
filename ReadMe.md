@@ -9,10 +9,10 @@ This project focuses on computing visibility graphs and the shortest path betwee
 ---
 
 ### Group Members:  
-- **Kush Mahajan**  (2022CSB1089)  
-- **Dhruv Gupta**  (2022CSB1079)  
-- **Prakhar Maurya**  (2022CSB1102)  
-- **Nishant Patil**  (2022CSB1097)  
+- **Nishant Patil**   (2022CSB1097)
+- **Kush Mahajan**    (2022CSB1089)  
+- **Dhruv Gupta**     (2022CSB1079)  
+- **Prakhar Maurya**  (2022CSB1102)    
 - **Swapnil Pandey**  (2022CSB1133)  
 
 ---
